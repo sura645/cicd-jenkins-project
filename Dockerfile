@@ -1,4 +1,3 @@
-id="dock01"
 FROM node:18
 
 WORKDIR /app
