@@ -1,4 +1,4 @@
-id="jenk01"
+
 pipeline {
     agent any
 
